@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lukasz. I live in Kronberg/Ts.
+- 👀 I’m interested in programming, basketball, bikeriding
+- 🌱 I’m currently learning Java and Spring
+- 📫 How to reach me lukasz@lukspeed.eu
+- 😄 Pronouns: he/his
